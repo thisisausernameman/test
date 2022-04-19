@@ -4,4 +4,10 @@
         . . . . . 
         # . . . # 
         # # # # #
-        `</field></block></statement></block><block type="device_forever" id="Jcwg8(Bh/:{!bqUEFuph" x="205" y="0"/></xml>
+        `</field><next><block type="device_show_leds" id="NjVDoH?]]#D|v|u8`wk;"><field name="LEDS">`
+        . . . . . 
+        # # . # # 
+        . . . . . 
+        # # # # # 
+        # . . . #
+        `</field></block></next></block></statement></block><block type="device_forever" id="Jcwg8(Bh/:{!bqUEFuph" x="205" y="0"/></xml>
