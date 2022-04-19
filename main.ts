@@ -6,7 +6,7 @@ basic.showLeds(`
     # # # # #
     `)
 basic.showLeds(`
-    . . . . .
+    . # . # .
     # # . # #
     . . . . .
     # # # # #

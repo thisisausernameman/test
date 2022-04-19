@@ -1,13 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ZCCkm9Sf]PrZ?:oA*}Fn" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="x~WSuaoJ3cIj^w%}@el_"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="xRRgvHNlG#rZ^u`HECiY" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="x8P`lXeK(3v7L$}){=a,"><field name="LEDS">`
         # . . . # 
         # # . # # 
         . . . . . 
         # . . . # 
         # # # # #
-        `</field><next><block type="device_show_leds" id="NjVDoH?]]#D|v|u8`wk;"><field name="LEDS">`
-        . . . . . 
+        `</field><next><block type="device_show_leds" id="t`3B9^F3gk7L4Tg~qB.s"><field name="LEDS">`
+        . # . # . 
         # # . # # 
         . . . . . 
         # # # # # 
         # . . . #
-        `</field></block></next></block></statement></block><block type="device_forever" id="Jcwg8(Bh/:{!bqUEFuph" x="205" y="0"/></xml>
+        `</field></block></next></block></statement></block><block type="device_forever" id="xOKV#msS=!AXYxJ0XSI5" x="309" y="20"/></xml>
